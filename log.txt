@@ -2,6 +2,6 @@
 <p>⏤͟͟͞͞𝜮𝑇𝜩͢𝑅𝑁𝐼𝑇𝑌 𖣇</p>
 
 
-<l>Atualizações:</li>
+<l>Atualizações: teste</li>
 ","url":"https://youtube.com"
 }
