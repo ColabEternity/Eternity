@@ -1,7 +1,7 @@
 {"version_code":9999999999,"content":"
-<p>Titulo</p>
+<p>⏤͟͟͞͞𝜮𝑇𝜩͢𝑅𝑁𝐼𝑇𝑌 𖣇</p>
 
 
-<l>Lista de cambios</li>
+<l>Atualizações:</li>
 ","url":"https://youtube.com"
 }
